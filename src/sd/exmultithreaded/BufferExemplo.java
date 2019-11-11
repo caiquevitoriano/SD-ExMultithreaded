@@ -38,7 +38,7 @@ public class BufferExemplo implements Buffer {
 
             buffer = valor;
             ocupado = true;
-            mostrarEstado("Produtor grava" + buffer);
+            mostrarEstado("Produtor grava: " + buffer);
             podeLer.signal();
 
         } catch (InterruptedException exception) {
