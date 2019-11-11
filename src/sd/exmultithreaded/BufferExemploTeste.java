@@ -9,7 +9,7 @@ package sd.exmultithreaded;
  *
  * @author caique
  */
-public class SDExMultithreaded {
+public class BufferExemploTeste{
 
     /**
      * @param args the command line arguments
